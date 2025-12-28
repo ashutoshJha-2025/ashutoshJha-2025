@@ -1,10 +1,6 @@
-<br clear="both">
-
 <h3 align="left">👨‍💻 All of my projects are available at https://ashutoshjha-portfolio.onrender.com/</h3>
 
 ###
-
-<br clear="both">
 
 <h2 align="left">🌐 Connect with me</h2>
 
@@ -24,7 +20,6 @@
 
 ###
 
-<br clear="both">
 
 <h2 align="left">Tech Stack</h2>
 
