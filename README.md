@@ -1,4 +1,4 @@
-<h3 align="left">👨‍💻 All of my projects are available at https://ashutoshjha-portfolio.onrender.com/</h3>
+<h3 align="left">👨‍💻 Personal portfolio https://ashutoshjha-2025.github.io/portfolio-remake/</h3>
 
 ###
 
