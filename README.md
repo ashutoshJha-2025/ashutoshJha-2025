@@ -6,17 +6,11 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/ashutosh-jha-68a525340/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="jhaashutosh0811@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/ashutosh_jha_8?igsh=amhhaG45b2wxaTYw" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ashutosh-jha-68a525340/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52"/></a>
+  <a href="mailto:jhaashutosh0811@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" /></a>
+  <a href="https://www.instagram.com/ashutosh_jha_8?igsh=amhhaG45b2wxaTYw"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" /></a>
+</p>
 
 ###
 
