@@ -1,9 +1,5 @@
 <h1 align="left">Hi, I'm Ashutosh Jha</h1>
 
-<p align="left">
-  Third-year Computer Science &amp; Engineering (Cyber Security) student who enjoys building full-stack applications from end to end.
-</p>
-
 ###
 
 <h3 align="left">👨‍💻 Personal portfolio: <a href="https://ashutoshjha-2025.github.io/portfolio-remake/">ashutoshjha-2025.github.io/portfolio-remake</a></h3>
@@ -12,7 +8,6 @@
 
 <h2 align="left">🙋‍♂️ About Me</h2>
 
-- 🎓 CSE (Cyber Security) student, currently in my third year
 - 🛠️ Building full-stack web apps with the **MERN stack**, **Spring Boot** and **REST APIs**
 - 🧠 Strong foundation in **Data Structures & Algorithms** and **OOP in Java**
 - 🔍 Interested in full-stack development, backend engineering, software engineering and applied AI
